@@ -1,0 +1,13 @@
+# Python Project Bundler & Restorer
+# No external dependencies required - uses Python standard library only
+
+# Python version requirement
+# python>=3.7
+
+# Built-in modules used:
+# - tkinter (GUI framework, usually included with Python)
+# - pathlib (file path operations)
+# - datetime (timestamps)
+# - re (regular expressions for parsing)
+# - typing (type hints)
+
